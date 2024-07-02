@@ -1,0 +1,66 @@
+Application- A basic process/usage
+	     (a set of process/collection of processes to do a specific task)
+
+two types:-
+1. Mobile Application( rendered on an remote/mobile OS)
+2. Web Application( rendered on a browser )
+
+WEB DEV
+Frontend
+UI that we see and interact with
+
+Backend
+the server side information(fetch or store) that we actually use 
+
+//note//
+use inspect element -> network tab 
+to list all the network requests made to the server 
+elements tab gives the html file
+//
+
+all images icons everything are fetched from a server(backend)
+
+Frontend:- HTML - the content 
+	   CSS  - the beautification
+	   JS   - the logic and functionality
+Frontend Frameworks- vue , Angular, ReactJS ,NextJS
+                     
+Backend:- interacts with the server ,to actually retrieve and store data.
+          
+API- application programming interface(inter software interaction) 
+     functions through this interface of an API
+
+// data format -JSON(js object notation)//
+
+status code in rest api- 2xx status code (success)
+eg;- 401 (you need to get authorisation)
+     token required
+
+Backend:- NodeJS(js)
+          Django(python)
+	  PHP
+          GOlang
+ 	  Springboot(java)
+          .Net(c#)
+          Ruby on Rails
+
+MOBILE DEV
+
+Software dedicated to a specific OS -> increases efficiency
+eg)
+nokia os- symbian,blackberry
+
+Android and iOS
+
+Android- android studio IDE (java)->(kotlin)
+
+apple- X CODE IDE(objective C)->(swift)
+
+FRAMEWORK
+ReactNative(js/ts)
+Flutter(dart)
+Xamarin(c#)
+
+native and cross platform
+cost save ke liye cross platform
+
