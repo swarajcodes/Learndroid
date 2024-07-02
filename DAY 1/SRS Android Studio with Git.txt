@@ -1,0 +1,6 @@
+Android Development Process
+
+APPLICATION-package of programs that is designed to solve a problem
+
+Client gives a Document(SRS) to developer.
+
